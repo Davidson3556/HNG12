@@ -1,0 +1,13 @@
+[submodule "hng-12--stage-0"]
+	path = hng-12--stage-0
+	url = https://github.com/Davidson3556/hng12_test1
+[submodule "hng-12--stage-1"]
+	path = hng-12--stage-1
+	url = https://github.com/Davidson3556/Hng-12-stage2
+[submodule "hng-12--stage-2"]
+	path = hng-12--stage-2
+	url = https://github.com/Davidson3556/stage_3
+[submodule "hng-12--stage-3"]
+	path = hng-12--stage-3
+	url = https://github.com/Davidson3556/AI-Text-processor
+

@@ -1,0 +1,2 @@
+# hng-12
+# From designing a responsive profile card and an interactive color guessing game to developing an AI text processor using Gemini Nano (Chrome's built-in AI APIs), each phase marked a progressive leap in both innovation and collaboration.
